@@ -38,11 +38,11 @@ This React application is a dynamic social media feed that displays user posts w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project-repo.git
+   git clone https://github.com/mdiibrahim/social-media-demo.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd project-repo
+   cd social-media-demo
    ```
 3. Install dependencies:
    ```bash
@@ -87,7 +87,7 @@ This app can be deployed using GitHub Pages:
 
 1. Add the following `homepage` field to `package.json`:
    ```json
-   "homepage": "https://your-username.github.io/project-repo"
+   "homepage": "https://your-username.github.io/social-media-demo"
    ```
 2. Install the `gh-pages` package:
    ```bash
@@ -104,7 +104,7 @@ This app can be deployed using GitHub Pages:
    ```bash
    npm run deploy
    ```
-5. Access the app at `https://your-username.github.io/project-repo`.
+5. Access the app at `https://your-username.github.io/social-media-demo`.
 
 ## Future Enhancements
 
